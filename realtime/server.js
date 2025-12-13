@@ -17,4 +17,4 @@ io.on("connection", (socket)=>{
     socket.on("disconnect", () => {});
 });
 
-console.log("Realtime cart server is running on: 9000")
+console.log("Realtime cart server is running on: 9000");
