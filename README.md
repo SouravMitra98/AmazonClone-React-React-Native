@@ -192,7 +192,7 @@ Mobile App
 
 cd mobile
 npm install
-npx expo start
+npx react-native run-android
 
 
 ---
