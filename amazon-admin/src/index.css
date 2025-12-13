@@ -1,0 +1,16 @@
+.collapse.show {
+    height: auto !important;
+    display: block !important;
+    visibility: visible !important;
+}
+
+.collapsing {
+    height: auto !important;
+    transition: none !important;
+    display: block !important;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

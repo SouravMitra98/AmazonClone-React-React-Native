@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn[standard]
+motor
+pydantic
+python-dotenv
+passlib[bcrypt]
+pyjwt
+stripe
+requests

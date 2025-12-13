@@ -1,0 +1,8 @@
+mobile/*
+backend-fastapi/*
+amazon-admin/*
+auth-services/*
+realtime/*
+android/*
+ios/*
+node_modules/
