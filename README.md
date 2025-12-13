@@ -26,6 +26,10 @@ This project includes:
 <img src="./screenshot/Screenshot 2025-12-12 001520.png" width="250" />
 <img src="./screenshot/Screenshot 2025-12-12 001541.png" width="250" />
 <img src="./screenshot/Screenshot 2025-12-12 002225.png" width="250" />
+
+<img src="./screenshot/Screenshot 2025-12-12 003342.png" width="250" />
+
+<img src="./screenshot/Screenshot 2025-12-12 212329.png" width="250" />
 ---
 
 🧑‍💼 Admin Panel (React Web)
