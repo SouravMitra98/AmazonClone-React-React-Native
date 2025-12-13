@@ -40,7 +40,6 @@ This project includes:
 <img src="./screenshot/Screenshot 2025-12-12 092139.png" />
 <img src="./screenshot/Screenshot 2025-12-12 092216.png" />
 <img src="./screenshot/Screenshot 2025-12-12 092237.png" />
-<img src="./screenshot/Screenshot 2025-12-12 092216.png" />
 ---
 
 🚀 Features
